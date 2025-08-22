@@ -1,4 +1,4 @@
-# 🌤 Weather App (React + Material-UI + OpenWeather API)
+# 🌤SkyCast-Weather App (React + Material-UI + OpenWeather API)
 
 A responsive Weather Application built with React.js that fetches real-time weather data from the OpenWeather API. This app allows users to search for any city and displays temperature, humidity, min/max temperatures, and weather descriptions with a modern Material-UI design.
 

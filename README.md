@@ -27,3 +27,11 @@ UI Framework: Material-UI
 API: OpenWeather API
 
 Tools: Vite, Axios (for API calls)
+
+<img width="1911" height="1006" alt="Screenshot 2025-08-22 122038" src="https://github.com/user-attachments/assets/4d569bab-7091-4c34-b196-9e420d40fec7" />
+
+<img width="1913" height="1009" alt="Screenshot 2025-08-22 122204" src="https://github.com/user-attachments/assets/4a713d92-e73c-4496-acf7-98c619d2b4b6" />
+
+<img width="1915" height="1010" alt="Screenshot 2025-08-22 122300" src="https://github.com/user-attachments/assets/448f0c39-d795-4743-9dca-2a66c68b6e5a" />
+
+
